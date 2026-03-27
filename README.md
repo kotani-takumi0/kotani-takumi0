@@ -105,19 +105,3 @@ AI生成コードと本質的な理解のギャップを埋める学習支援プ
 - EBPM（Evidence-Based Policy Making）と行政データ分析
 - 因果推論・合成コントロール法の政策評価への応用
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kotani-takumi0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ja" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotani-takumi0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=ja" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kotani-takumi0&theme=tokyonight&hide_border=true&locale=ja" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kotani-takumi0&theme=tokyo-night&area=true&hide_border=true" width="95%" />
-</div>
