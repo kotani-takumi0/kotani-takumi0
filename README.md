@@ -22,6 +22,13 @@
 | [GDGoC Japan Hackathon 2026](https://github.com/kotani-takumi0/firstbyte) | 出場 | 2026 |
 | [関西ビギナーズハッカソン vol.7](https://github.com/kotani-takumi0/jimoka) | 出場 | — |
 
+## 📜 Certifications
+
+| 講座 | 提供 |
+|---|---|
+| GCI（データサイエンティスト育成講座） | 東京大学 松尾研究室 |
+| DL基礎講座（深層学習基礎） | 東京大学 松尾研究室 |
+
 ---
 
 ## ⚡ Tech Stack
