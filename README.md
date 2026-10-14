@@ -86,6 +86,12 @@ Docker, PostgreSQL, C++（競技プログラミング）, Expo / React Native, A
 
 統計的推定・検定, 因果推論（合成コントロール法）, 機械学習による分類, 深層学習の基礎
 
+**AI**
+
+<img src="assets/claude.png" height="48" alt="Claude Code"> <img src="assets/chatgpt.png" height="48" alt="Codex"> <img src="assets/grok-bot.png" height="48" alt="Grok Bot">
+
+Claude Code, Codex, Grok Bot
+
 ---
 
 ## 資格・講座
