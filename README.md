@@ -12,7 +12,7 @@
 
 ---
 
-## 実務・運用：Minopal（飲食店ホール用の卓タイマー）
+## <img src="assets/minopal.png" height="28" alt="Minopalのアイコン"> 実務・運用：Minopal（飲食店ホール用の卓タイマー）
 
 [リポジトリ](https://github.com/kotani-takumi0/table_check_app)
 
