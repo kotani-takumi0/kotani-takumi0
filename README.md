@@ -36,8 +36,8 @@
 
 | 企業 | 期間 | やったこと | 技術 |
 |---|---|---|---|
-| ABCテレビ（Tech InternShip） | 2026年8〜9月 | ラジオの音声を文字に起こして構造化し、聞いている人がどこで離れたかを分析できる形にした。AirflowのDAGに処理を追加し、Dockerで立てたAirflowで取り込みを確認 | BigQuery, Airflow, Docker, Gemini |
-| pixiv（summer boot camp 2026 データ基盤コース） | 2026年夏 | BigQueryのINFORMATION_SCHEMAから参照されていないテーブルを見つけるCLIツールをPythonで作り、実際に不要なテーブルを削除した | Python, BigQuery, SQL |
+| <img src="assets/abc.png" height="24" alt="ABCテレビ"><br>ABCテレビ（Tech InternShip） | 2026年8〜9月 | ラジオの音声を文字に起こして構造化し、聞いている人がどこで離れたかを分析できる形にした。AirflowのDAGに処理を追加し、Dockerで立てたAirflowで取り込みを確認 | BigQuery, Airflow, Docker, Gemini |
+| <img src="assets/pixiv.png" height="24" alt="pixiv"><br>pixiv（summer boot camp 2026 データ基盤コース） | 2026年夏 | BigQueryのINFORMATION_SCHEMAから参照されていないテーブルを見つけるCLIツールをPythonで作り、実際に不要なテーブルを削除した | Python, BigQuery, SQL |
 
 ---
 
@@ -47,7 +47,13 @@
 |---|---|---|---|
 | [学生データ分析 AWARD 2026](https://github.com/kotani-takumi0/data_award_2025_app) | **最優秀賞（1位）** | 豊島区の2040年に向けた人口動態 | 出生率の予測、ワンルームマンション税の効果を合成コントロール法で検証、23区の定住率比較を統合して分析 |
 | [内閣官房 データ活用ハッカソン 2025](https://github.com/kotani-takumi0/policy_seed_hackathon) | **データ活用賞** | 新しい政策事業の予算規模の見積もり | 行政事業レビューの過去事業をEmbeddingsで類似検索し、推定予算を出すツールをFastAPIで作成 |
-| SIGNATE × TECH OCEAN Student Cup 2026 | **ブロンズメダル（94位 / 330）** | どの企業がDX教育商材を購入するかの予測 | 財務データ・企業情報・アンケートの自由記述という形式の違うデータを組み合わせ、二値分類モデルを作成（評価指標 F1） |
+| [SIGNATE × TECH OCEAN Student Cup 2026](assets/signate_bronze.png) | **ブロンズメダル（94位 / 330）** | どの企業がDX教育商材を購入するかの予測 | 財務データ・企業情報・アンケートの自由記述という形式の違うデータを組み合わせ、二値分類モデルを作成（評価指標 F1） |
+
+<details>
+<summary>SIGNATE ブロンズメダルの証明書</summary>
+<br>
+<img src="assets/signate_bronze.png" width="480" alt="SIGNATE × TECH OCEAN Student Cup 2026 ブロンズメダル証明書（94位 / 330）">
+</details>
 
 ---
 
