@@ -109,4 +109,3 @@ Claude Code, Codex, Grok Bot
 ## 連絡先
 
 - Email：[kotani.takumi.24@shizuoka.ac.jp](mailto:kotani.takumi.24@shizuoka.ac.jp)
-- X：[@asara10103](https://x.com/asara10103)
