@@ -10,7 +10,7 @@
 - **データ基盤とデータ分析で、判断材料を作れる**：インターン2社でBigQueryのデータ基盤を担当。
 - **短期間で形にできる**：Minopalは3週間で105本のPRを出し、21回リリース。内閣官房 データ活用ハッカソンでデータ活用賞
 
-[Email](mailto:kotani.takumi.24@shizuoka.ac.jp) ・ [X @asara10103](https://x.com/asara10103)
+[Email](mailto:kotani.takumi.24@shizuoka.ac.jp) 
 
 ---
 
