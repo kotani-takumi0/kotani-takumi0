@@ -39,7 +39,7 @@
 | 企業 | 期間 | やったこと | 技術 |
 |---|---|---|---|
 | <img src="assets/abc.png" height="24" alt="ABCテレビ"><br>ABCテレビ（Tech InternShip） | 2026年8〜9月 | ラジオの音声を文字に起こして構造化し、聞いている人がどこで離れたかを分析できる形にした。AirflowのDAGに処理を追加し、Dockerで立てたAirflowで取り込みを確認 | BigQuery, Airflow, Docker, Gemini |
-| <img src="assets/pixiv.png" height="24" alt="pixiv"><br>pixiv（summer boot camp 2026 データ基盤コース） | 2026年夏 | BigQueryの参照されていないテーブルを見つけるCLIツールをPythonで作り、実際に不要なテーブルを削除した | Python, BigQuery, SQL |
+| <img src="assets/pixiv.png" height="24" alt="pixiv"><br>pixiv（summer boot camp 2026 データ基盤コース） | 2026年8月 | BigQueryの参照されていないテーブルを見つけるCLIツールをPythonで作り、実際に不要なテーブルを削除した | Python, BigQuery, SQL |
 
 ---
 
