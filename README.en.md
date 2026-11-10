@@ -94,6 +94,12 @@ Statistical estimation and testing, causal inference (synthetic control method),
 
 Claude Code, Codex, Grok Bot
 
+<details>
+<summary>My Grok Bot setup (as of November 2026)</summary>
+<br>
+<img src="assets/grok-bot-architecture.webp" width="800" alt="Diagram of my Grok Bot setup. Tomo receives requests and routes them to a Minopal development team and a study/career/life team; each bot reads and writes shared tools such as GitHub, Firebase, Figma and Notion through connectors">
+</details>
+
 ---
 
 ## Certifications and courses
