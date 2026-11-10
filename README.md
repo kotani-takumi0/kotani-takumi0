@@ -94,6 +94,12 @@ Docker, PostgreSQL, C++（競技プログラミング）, Expo / React Native, A
 
 Claude Code, Codex, Grok Bot
 
+<details>
+<summary>Grok Botの構成（2026年11月時点）</summary>
+<br>
+<img src="assets/grok-bot-architecture.webp" width="800" alt="Grok Botの構成図。窓口のTomoが依頼を受け、Minopal開発チームと学習・進路・生活チームに振り分け、各ボットがGitHub・Firebase・Figma・Notionなどのコネクタを読み書きする">
+</details>
+
 ---
 
 ## 資格・講座
